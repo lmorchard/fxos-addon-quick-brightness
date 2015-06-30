@@ -2,7 +2,8 @@
   "name": "System - Quick Brightness",
   "description": "Adds a brightness slider to the notification tray",
   "developer": {
-    "name": "Les Orchard"
+    "name": "Les Orchard",
+    "url": "http://lmorchard.com"
   },
   "package_path": "package.zip",
   "role": "addon",
