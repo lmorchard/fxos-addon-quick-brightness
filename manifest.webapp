@@ -1,0 +1,17 @@
+{
+  "name": "System - Quick Brightness",
+  "description": "Adds a brightness slider to the notification tray",
+  "developer": {
+    "name": "Les Orchard"
+  },
+  "package_path": "package.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [{
+    "filter": "system.gaiamobile.org",
+    "css": [],
+    "scripts": ["index.js"]
+  }],
+  "icons": {
+  }
+}
