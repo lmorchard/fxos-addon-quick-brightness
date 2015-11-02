@@ -6,13 +6,6 @@
     "url": "http://lmorchard.com"
   },
   "package_path": "package.zip",
-  "role": "addon",
-  "type": "certified",
-  "customizations": [{
-    "filter": "system.gaiamobile.org",
-    "css": [],
-    "scripts": ["index.js"]
-  }],
   "icons": {
   }
 }

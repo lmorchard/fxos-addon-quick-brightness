@@ -1,2 +1,2 @@
 package:
-	zip package.zip index.js manifest.webapp
+	zip package.zip index.js manifest.json update.webapp
